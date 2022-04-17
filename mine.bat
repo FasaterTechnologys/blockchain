@@ -1,0 +1,2 @@
+node mine
+pause
